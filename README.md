@@ -1,11 +1,11 @@
 # -IT-systems-development-projects-with-SDLC
-Project Overview
+## Project Overview
 This project involves the planning, execution, and delivery of a pilot IT system for VR1Family Charity Aid Services, which is aimed at improving the efficiency of humanitarian aid distribution. The system is being developed as part of a project management exercise within the SWEN90016 – Software Processes and Management course at the University of Melbourne.
 
-Project Goals
+## Project Goals
 The primary goal of the project is to reduce operational overhead in aid distribution from 30% to under 10% by implementing a streamlined IT system. The pilot phase focuses on delivering core functionalities that will allow VR1Family to test and demonstrate the system's capabilities within Australia, with potential for future expansion.
 
-Key Contributions
+## Key Contributions
 Project Initiation:
 Led the initial phase of the project, including setting objectives, scope, and success criteria to align with organizational strategy.
 Stakeholder Analysis:
@@ -17,7 +17,7 @@ Identified and managed critical assumptions and constraints, such as budget, tim
 SDLC Model
 The Agile Software Development Life Cycle (SDLC) was selected for its flexibility and iterative approach, which is well-suited for accommodating evolving project requirements and stakeholder feedback.
 
-Technology Stack
+## Technology Stack
 Frontend: React was chosen for its ability to create dynamic user interfaces and its compatibility with various web technologies.
 Backend: Spring Boot was utilized for its robust security features and modular architecture, facilitating rapid development and deployment.
 Project Management Tools
